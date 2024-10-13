@@ -1,4 +1,4 @@
-## pose analytics
+## 動画から姿勢推定を行うプログラム
 
 ![スクリーンショット 2024-10-02 223839](https://github.com/user-attachments/assets/a5863dd6-3882-4be7-8191-ce5f6b1ebf33)
 
